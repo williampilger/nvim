@@ -5,10 +5,10 @@
 
 # Instalando o Neovim
 sudo apt update
-sudo apt install neovim
+sudo apt install -y neovim
 
 # Outras Dependências
-sudo apt install hunspell-pt-br ripgrep
+sudo apt install -y hunspell-pt-br ripgrep
 
 
 # Instalando Fonte
