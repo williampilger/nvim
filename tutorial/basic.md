@@ -82,6 +82,15 @@ LazyVim já vem com suporte a LSP e autocompletar.
 
 ---
 
+## 🔌 Comando para abrir o terminal
+
+* `<leader> t t` → abre/fecha o terminal **flutuante** dentro do Neovim
+* `<leader> t f` → abre terminal em modo **float** (janela solta)
+* `<leader> t h` → terminal em **split horizontal**
+* `<leader> t v` → terminal em **split vertical**
+
+---
+
 ## 🚀 Dica
 
 A tecla `<leader>` no LazyVim por padrão é **espaço (Space)**.
@@ -92,3 +101,8 @@ Ou seja: `<leader> e` = `Space + e`.
 👉 Esse é só o básico, escrito pelo ChatGPT. O LazyVim tem muito mais recursos, mas com isso já dá para começar produtivo.
 
 ---
+
+
+
+
+
