@@ -7,6 +7,10 @@
 sudo apt update
 sudo apt install neovim
 
+# Outras Dependências
+sudo apt install hunspell-pt-br
+
+
 # Instalando Fonte
 mkdir -p ~/.local/share/fonts
 wget -qO- https://github.com/ryanoasis/nerd-fonts/releases/latest/download/FiraCode.zip -O FiraCode.zip
