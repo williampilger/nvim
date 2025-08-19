@@ -8,7 +8,7 @@ sudo apt update
 sudo apt install neovim
 
 # Outras Dependências
-sudo apt install hunspell-pt-br
+sudo apt install hunspell-pt-br ripgrep
 
 
 # Instalando Fonte
