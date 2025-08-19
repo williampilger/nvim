@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## Execute diretamente usando:
+## bash -c "$(curl -fsSL https://raw.githubusercontent.com/williampilger/nvim/refs/heads/main/install.sh)"
+
 # Instalando o Neovim
 sudo apt install neovim
 
