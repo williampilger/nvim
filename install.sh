@@ -3,7 +3,8 @@
 ## Execute diretamente usando:
 ## bash -c "$(curl -fsSL https://raw.githubusercontent.com/williampilger/nvim/refs/heads/main/install.sh)"
 
-# Instalando o Neovim
+# Instalando o Neovim (unstable, pois atualmente o repositório padrão é desatualizado)
+sudo add-apt-repository ppa:neovim-ppa/unstable
 sudo apt update
 sudo apt install -y neovim
 
