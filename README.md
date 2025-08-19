@@ -27,7 +27,7 @@ fc-cache -fv
 ```
 
 *Clonando configuração do LazyVim*
-```
+```bash
 # Backup das configurações atuais
 mv ~/.config/nvim{,.bak}
 mv ~/.local/share/nvim{,.bak}
