@@ -4,6 +4,7 @@
 ## bash -c "$(curl -fsSL https://raw.githubusercontent.com/williampilger/nvim/refs/heads/main/install.sh)"
 
 # Instalando o Neovim
+sudo apt update
 sudo apt install neovim
 
 # Instalando Fonte
